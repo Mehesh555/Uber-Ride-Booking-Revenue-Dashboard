@@ -158,19 +158,19 @@ Some of the important DAX measures used in this project include:
 # 📸 Dashboard Preview
 
 ### Home Page
-![Home Page](image/Dashboard-1.png)
+![Home Page](Image/Dashboard-1.png)
 
 ### Overview Page
-![Overview Page](image/Dashboard-2.png)
+![Overview Page](Image/Dashboard-2.png)
 
 ### Vehicle Analysis
-![Vehicle Analysis](image/Dashboard-3.png)
+![Vehicle Analysis](Image/Dashboard-3.png)
 
 ### Data Model
-![Data Model](image/Modelling.png)
+![Data Model](Image/Modelling.png)
 
 ### DAX Measures
-![DAX Measures](image/DAX-Measures.png)
+![DAX Measures](Image/DAX-Measures.png)
 
 ---
 
